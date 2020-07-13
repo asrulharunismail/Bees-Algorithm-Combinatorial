@@ -1,6 +1,6 @@
 # Bees-Algorithm-Combinatorial
 The combinatorial version of Bees Algorithm; TSP; CVRP; Bee Algorithm, Bee Colony Algorithm.
-We used TSP datasets (TSPLIB).
+We used TSP and VRP datasets (TSPLIB).
 
 Reference:
 
